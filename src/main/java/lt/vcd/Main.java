@@ -17,7 +17,7 @@ public class Main {
 
         int y = in.nextInt();
 
-        System.out.println( ( x / y );
+        System.out.println( x / y );
 
 
         /*
